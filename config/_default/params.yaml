@@ -2,13 +2,23 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+############################
+## Theme
+############################
 
+# Choose a theme.
+#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
+#   Browse built-in themes in `themes/academic/data/themes/`
+#   Browse user installed themes in `data/themes/`
+theme = "minimal"
+
+# Enable users to switch between day and night mode?
+day_night = true
 # Appearance
 
 appearance:
   theme_day: minimal
   theme_night: minimal
-  day_night: true
   font: native
   font_size: L
 
