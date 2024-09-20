@@ -14,7 +14,7 @@ role: Associate Professor and Head
 
 # Organizations/Affiliations
 organizations:
-  - name: Dept. of Computer Science and Engineering, School of Engineering, Technology and Sciences, Independent University, Bangladesh.
+  - name: Dept. of CSE, SETS, Independent University, Bangladesh.
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,12 +65,12 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).
