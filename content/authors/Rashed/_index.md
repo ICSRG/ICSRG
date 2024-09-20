@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Sefatul Wasi
+title: Md Rashedur Rahman
 
 # Full name (for SEO)
-first_name: Sefatul
-last_name: Wasi
+first_name: Md Rashedur
+last_name: Rahman
 
 # Username (this should match the folder name)
 authors:
-  - Wasi
+  - Rashed
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant 
+role: Co-Supervisor, Doctoral Fellow 
 
 # Organizations/Affiliations
 organizations:
-  - name: Independent University, University.
+  - name: University of Hyogo, Japan.
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,8 +32,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: University of Hyogo
+      year: 2024
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
