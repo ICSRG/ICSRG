@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Saadia Binte Alam
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Saadia Binte
+last_name: Alam
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor and Head
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Dept. of Computer Science and Engineering
+School of Engineering, Technology and Sciences,
+Independent University, Bangladesh.
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).  
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Brain atrophy
+  - Magnetic Resonance Imaging
+  - Machine Learning
+  - Medical Image and Signal Processing
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor of Philosophy - Ph.D. in Electrical Engineering and Computer Science
+      institution: University of Hyogo, Japan
+      year: 2017
+    - course: Master of Science - M.S. in Engineering Physics/Applied Physics
+      institution: University of Dhaka, Bangladesh
+      year: 2005
+    - course: Bachelor of Science - B.Sc. in Engineering Physics/Applied Physics
+      institution: University of Dhaka, Bangladesh
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +75,5 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).
+She is the supervisor of the Intelligent Computing and Systems Research Group (ICSRG).
