@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).
