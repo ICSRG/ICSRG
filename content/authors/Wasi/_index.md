@@ -11,7 +11,7 @@ authors:
   - Wasi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Research Assistant 
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sefatulwasi@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
