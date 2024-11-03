@@ -14,8 +14,8 @@ role: Associate Professor and Head
 
 # Organizations/Affiliations
 organizations:
-  - name: Dept. of CSE, SETS, Independent University, Bangladesh.
-    url: ''
+  - name: School of Engineering, Technology and Sciences, Dept. of Computer Scinece & Engineering, Independent University, Bangladesh.
+    url: 'http://iub.ac.bd/academics/schools/sets'
 
 # Short bio (displayed in user profile at end of posts)
 bio:   

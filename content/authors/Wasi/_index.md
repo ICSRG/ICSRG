@@ -14,50 +14,49 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant 
+role: Research & Development Officer 
 
 # Organizations/Affiliations
 organizations:
-  - name: Independent University, University.
-    url: ''
+  - name: School of Engineering, Technology and Sciences, Dept. of Computer Scinece & Engineering, Independent University, Bangladesh.
+    url: 'http://iub.ac.bd/academics/schools/sets'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Wasi aims to work in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. His focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer-aided Diagnosis (CADx)
+  - Medical Image Processing
+  - Deep Learning
+  - Renewable Energy
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: Independent University, Bangladesh.
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:sefatul@iub.edu.bd'
+
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=jjaMIgYAAAAJ&hl=en
+
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Sefatul-Wasi
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sefatul-wasi-5a606715a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +73,10 @@ user_groups:
   - Researchers
 ---
 
-Wasi is a Research Assistant of artificial intelligence at the IUB. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Motivated Researcher/Developer with exposure in AI/ML, medical image processing, and Flutter app development. Finished his Bachelor’s in Computer Science and currently engaged in medical imaging-based research in the Department of CSE at Independent University, Bangladesh. Working in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. His focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The vision is to work on novel approaches that will - 
+i) Offer comprehensive diagnosis solutions
+ii) Develop assistive systems that will contribute as decision support system in clinical workflows of disease diagnosis.
+iii) Aiming towards interdisciplinary collaborative approach with researchers, clinicians and industry experts.
+iv) Explainable AI (XAI) in biomedical; improving patient communication, ensuring model reliability and regulatory standards.
