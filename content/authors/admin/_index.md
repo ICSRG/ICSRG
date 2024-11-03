@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).  
+bio:   
 
 interests:
   - Brain atrophy
@@ -45,16 +45,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:saadiabinte@iub.edu.bd'
+
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=icY7ge0AAAAJ&hl=en
+
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Saadia-Alam
+  
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dr-saadia-binte-alam-a9ab7662/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,5 +76,9 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr. Saadia Binte Alam, has completed her Ph.D. from Department of Electrical Engineering and Computer Sciences, Graduate School of Engineering, University of Hyogo, Japan. She worked as “JSPS Postdoctoral Research Fellow” at Advanced Medical Engineering Research Institute (AMERI), University of Hyogo, Japan. Currently she is working as Associate Professor and Head, Department of Computer Science and Engineering, Independent University, Bangladesh (IUB).
-She is the supervisor of the Intelligent Computing and Systems Research Group (ICSRG).
+Dr. Saadia Binte Alam is an academician with a strong research interest in medical image and signal processing and data science. Along with extensive teaching experience in the Electronic Engineering and Computer Science department, her research focuses on disease detection through machine learning, deep learning, etc.
+
+She was awarded the prestigious JSPS Postdoctoral Fellowship, MEXT Scholarship, and a no. of awards/scholarships. She has published her research findings in a few book chapters (available in Springer, IntechOpen), several peer-reviewed journals, and conference papers as the first author.
+
+She has a keen interest in developing interdisciplinary collaborations, novel teaching methods, and modes of instruction that will fully engage the students in the learning process. As an academic collaborator, She has established the bridge for an international MOU between the University of Hyogo, Japan, and Independent University, Bangladesh (IUB) and previously IUBAT, Bangladesh. She has been involved with academic paper review and editorial activities (Associate Editor, Journal of Applied Science and Engineering), joint research collaboration projects, international conference committees, etc.
+Dr Saadia and her interdisciplinary team delves into the cutting-edge realms of Biomedical AI, video surveillance, pose estimation, and robotics. Their collaborative efforts synergize expertise in medicine, computer science, and engineering, pioneering advancements in healthcare diagnostics, security systems, and robotics. Through innovative approaches and deep learning models, they aim to revolutionize medical imaging, enhance surveillance capabilities, and optimize human-robot interactions for a safer, healthier future.
