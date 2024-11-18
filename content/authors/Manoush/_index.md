@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Manoush Chowdhury
+title: Manosh Chowdhury
 
 # Full name (for SEO)
-first_name: Manoush
+first_name: Manosh
 last_name: Chowdhury
 
 # Username (this should match the folder name)
 authors:
-  - Manoush
+  - Manosh
 
 # Is this the primary user of the site?
 superuser: false
