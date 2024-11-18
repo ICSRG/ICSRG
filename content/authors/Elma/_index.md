@@ -41,7 +41,7 @@ education:
 
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: 'mailto:sksadiatasnim460@gmail.com'
 
   - icon: linkedin

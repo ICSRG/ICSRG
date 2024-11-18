@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sefatul Wasi
+title: Halima Khatun
 
 # Full name (for SEO)
-first_name: Sefatul
-last_name: Wasi
+first_name: Halima
+last_name: Khatun
 
 # Username (this should match the folder name)
 authors:
-  - Wasi
+  - Halima
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research & Development Officer 
+role: Undergraduate Researcher 
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,18 @@ organizations:
     url: 'http://iub.ac.bd/academics/schools/sets'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wasi aims to work in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. His focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
+bio:
 
 interests:
-  - Computer-aided Diagnosis (CADx)
-  - Medical Image Processing
+  - AI
+  - Video Surveillance
   - Deep Learning
-  - Renewable Energy
 
 education:
   courses:
     - course: BSc in Computer Science
       institution: Independent University, Bangladesh.
-      year: 2023
+      year: Curent
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,19 +43,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sefatul@iub.edu.bd'
-
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=jjaMIgYAAAAJ&hl=en
+    link: 'mailto:halimakhatunmy@gmail.com'
 
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Sefatul-Wasi
+    link: https://www.researchgate.net/profile/Halima-Khatun-11/research
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sefatul-wasi-5a606715a/
+    link: https://www.linkedin.com/in/halima-khatun-188838268/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,19 +60,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sefatulwasi@gmail.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-supervisors
-  - Researchers
+  - Undergraduate Students
 ---
 
-Motivated Researcher/Developer with exposure in AI/ML, medical image processing, and Flutter app development. Finished his Bachelor’s in Computer Science and currently engaged in medical imaging-based research in the Department of CSE at Independent University, Bangladesh. Working in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. His focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
+I am Halima Khatun, an undergraduate Computer Science and Engineering Student at Independent University, Bangladesh. particularly interested in machine learning and its possible real-world applications. 
 
-The vision is to work on novel approaches that will - 
-i) Offer comprehensive diagnosis solutions
-ii) Develop assistive systems that will contribute as decision support system in clinical workflows of disease diagnosis.
-iii) Aiming towards interdisciplinary collaborative approach with researchers, clinicians and industry experts.
-iv) Explainable AI (XAI) in biomedical; improving patient communication, ensuring model reliability and regulatory standards.
+My current research study investigates unique AI algorithms for detecting violence and creating safer environments. Through ethical and responsible behaviour, I hope to advance artificial intelligence and generate positive social change. My goal is to help build AI solutions that benefit communities and make the world a more equitable place. I am inspired by multidisciplinary research in computer vision and psychology to discover new methods for technology to assist humanity.

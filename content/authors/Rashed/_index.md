@@ -46,7 +46,7 @@ education:
 
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: 'mailto:rashed.riyadh14@gmail.com '
 
   - icon: google-scholar

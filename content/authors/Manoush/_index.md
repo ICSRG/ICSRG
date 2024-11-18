@@ -46,7 +46,7 @@ education:
 
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: 'mailto:manoshsc999@gmail.com'
 
   - icon: github

@@ -47,7 +47,7 @@ social:
     link: 'mailto:siamtbhuiyan@gmail.com'
 
   - icon: globe
-    icon_pack: fab
+    icon_pack: fas
     link: https://siamtbhuiyan.netlify.app/
 
   - icon: github
