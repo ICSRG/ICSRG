@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: about.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.5
           position: center
@@ -58,7 +58,7 @@ sections:
       title: |
          Intelligent Computing and Systems Research Group (ICSRG) 
       image:
-        filename: about.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
