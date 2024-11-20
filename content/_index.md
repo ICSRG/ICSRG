@@ -58,11 +58,11 @@ sections:
       title: |
          Intelligent Computing and Systems Research Group (ICSRG) 
       image:
-        filename: welcome.jpg
+        filename: about.jpg
       text: |
         <br>
         
-        The Intelligent Computing and Systems Research Group (ICSRG) has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2022.
+        The Intelligent Computing and Systems Research Group (ICSRG) has been a center of excellence for Artificial Intelligence research, teaching, and practice.
   
   - block: collection
     content:
@@ -82,26 +82,6 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
