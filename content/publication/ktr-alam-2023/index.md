@@ -9,6 +9,6 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-11-20T20:42:53.084957Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Proceedings of The International Symposium on Multiple-Valued Logic*'
 ---
