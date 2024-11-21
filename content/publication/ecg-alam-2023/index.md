@@ -11,6 +11,6 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-11-20T20:42:53.078767Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Lecture Notes in Networks and Systems*'
 ---
