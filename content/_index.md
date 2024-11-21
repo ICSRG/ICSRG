@@ -13,23 +13,68 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Kidney Tumor Diagnosis
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: kts.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+
+      - title: Lung Disease Detection from Chest X-ray (CXR)
+        content: ''
+        align: left
+        background:
+          image:
+            filename: cxr.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: Autonomous Quadruped Robot
+        content: ''
+        align: left
+        background:
+          image:
+            filename: robodog.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: Diabetic Foot Ulcer Diagnosis
+        content: ''
+        align: left
+        background:
+          image:
+            filename: diabetic.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: Automated Violence Detection and Classification
+        content: ''
+        align: left
+        background:
+          image:
+            filename: violence.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: World-Class Biomedical AI Lab
+        content: ''
         align: right
         background:
           image:
@@ -48,9 +93,9 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 1000
 
 
   - block: hero
