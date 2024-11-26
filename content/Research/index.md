@@ -4,7 +4,17 @@ layout: "widget_page"
 headless: true  # Homepage is headless, other widget pages are not.
 
 sections:
-  - research_areas
-  - rp
+  - block: people
+    content:
+      title: research areas
+      subtitle:
+      user_groups:
+          - Principal Investigator
+          - Co-Supervisors
+    design:
+      view: card
+      columns: '1'
+ - research_areas
+ - rp
 
 ---
