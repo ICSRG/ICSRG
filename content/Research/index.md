@@ -12,8 +12,9 @@ sections:
           - Principal Investigator
           - Co-Supervisors
     design:
-      view: card
-      columns: '1'
+      show_interests: false
+      show_role: true
+      show_social: true
  - research_areas
  - rp
 
