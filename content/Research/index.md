@@ -6,16 +6,15 @@ type: landing
 sections:
   - block: people
     content:
-      title: research areas
-      subtitle:
+      title: Research Areas
       user_groups:
-          - Principal Investigator
-          - Co-Supervisors
+          - Research Areas
+
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
-      show_social: true
- - research_areas
- - rp
+      show_social: false
 
 ---
