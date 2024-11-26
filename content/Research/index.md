@@ -1,6 +1,6 @@
 ---
 # Homepage
-layout: "widget_page"
+type: landing
 headless: true  # Homepage is headless, other widget pages are not.
 
 sections:
