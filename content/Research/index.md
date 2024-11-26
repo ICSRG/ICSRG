@@ -1,7 +1,7 @@
 ---
-# Homepage
+title: Research
+
 type: landing
-headless: true  # Homepage is headless, other widget pages are not.
 
 sections:
   - block: people
