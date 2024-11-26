@@ -10,15 +10,14 @@ weight: 1 # Order that this section will appear.
 title: "Research Areas"
 subtitle: "Explore our key research areas"
 
-content:
-    user_groups:
-        - Researchers
-        - Co-Supervisors
+user_groups:
+    - Researchers
+    - Co-Supervisors
 
-design:
-  show_social: false
-  show_interests: false
-  show_projects: true
-  show_department: false
+# design:
+#   show_social: false
+#   show_interests: false
+#   show_projects: true
+#   show_department: false
 
 ---
