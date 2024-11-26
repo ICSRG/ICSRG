@@ -2,7 +2,7 @@
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "awesome"
+<!-- widget = awesome -->
 headless = true
 active = true
 weight = 1
