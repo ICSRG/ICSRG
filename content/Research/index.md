@@ -17,4 +17,18 @@ sections:
       show_role: true
       show_social: false
 
+
+  - block: collection
+    content:
+      title: Research Projects
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: card
+      columns: '1'
+
 ---
