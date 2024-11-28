@@ -25,9 +25,10 @@ organizations:
 bio: Wasi aims to work in Medical AI towards predicting abnormality, disease detection, monitoring disease progression, and prevention of misdiagnosis. His focus lies in developing automatic methods for region of interest (ROI) localization from radiologic images using modern deep learning techniques.
 
 interests:
-  - Computer-aided Diagnosis (CADx)
+  - Computer-aided Diagnosis (CAD)
   - Medical Image Processing
   - Deep Learning
+  - Computer Vision
   - Renewable Energy
 
 education:

@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Director
 ---
 
 Dr. Saadia Binte Alam is an academician with a strong research interest in medical image and signal processing and data science. Along with extensive teaching experience in the Electronic Engineering and Computer Science department, her research focuses on disease detection through machine learning, deep learning, etc.

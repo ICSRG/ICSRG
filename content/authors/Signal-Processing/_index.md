@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Active research area
+role: Inactive research area
 
 weight: 899
 

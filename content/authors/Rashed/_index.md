@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Dr. Rashedur Rahman
+title: Dr. Md. Rashedur Rahman
 
 # Full name (for SEO)
-first_name: Dr. Rashedur
+first_name: Dr. Md. Rashedur
 last_name: Rahman
 
 # Username (this should match the folder name)
@@ -11,10 +11,10 @@ authors:
   - Rashed
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Co-Supervisor, Assistant Professor (Adjunct) 
+role: Co-Director, Adj. Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Supervisors
+  - Co-Directors
 ---
 
 Dr. Rashedur Rahman is an expert in medical image processing and deep learning. After completing his PhD in Electronics and Information Engineering at the University of Hyogo, Japan, where he conducted advanced research at the Advanced Medical Engineering Research Institute (AMERI), Dr. Rashedur joined the Department of Computer Science and Engineering at the Independent University, Bangladesh (IUB) as an Assistant Professor (Adjunct). He holds a BSc in Electrical and Electronics Engineering from the International University of Business Agriculture and Technology (IUBAT), completed in 2017, and brings valuable expertise and innovation to the group.

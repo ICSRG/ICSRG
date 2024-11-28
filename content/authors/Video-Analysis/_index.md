@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Video Surveillance
+title: Video Analysis
 
 # Username (this should match the folder name)
 authors:
-  - Video Surveillance
+  - Video Analysis
 
 # Is this the primary user of the site?
 superuser: false
