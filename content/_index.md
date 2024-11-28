@@ -121,7 +121,17 @@ sections:
       show_interests: false
       show_role: false
       show_social: false
-  
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+
   - block: collection
     content:
       title: Latest News
@@ -138,28 +148,21 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact
       columns: '1'
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+
 ---

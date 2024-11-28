@@ -13,19 +13,18 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Plot -16, Aftabuddin Ahmed Road, Block-B, Bashundra R/A
+        city: Dhaka
+        region: 
+        postcode: '1229'
+        country: Bangladesh
+        country_code: BD
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '23.8155044'
+        longitude: '90.4275435'
+      directions: Enter DMK Building and take the Lift (Press 7) on Level 8, Turn right straight towards 8004 (Faculty Offices) and enter 8004 C.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Sunday-Thursday 9:00 to 18:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
