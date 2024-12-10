@@ -35,7 +35,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: Independent University, Bangladesh.
-      year: 2023
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
