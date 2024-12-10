@@ -24,11 +24,10 @@ sections:
       text: ""
       count: 3
       filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
+        Authors:
+          - projects
     design:
-      view: card
+      view: compact
       columns: '1'
 
 ---
