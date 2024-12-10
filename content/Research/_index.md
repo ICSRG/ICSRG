@@ -25,7 +25,7 @@ sections:
       count: 3
       filters:
         Authors:
-          - projects
+          - Projects
     design:
       view: compact
       columns: '1'
