@@ -24,10 +24,13 @@ sections:
       text: ""
       count: 3
       filters:
-        Authors:
+        user_groups:
           - Projects
     design:
-      view: compact
+      view: card
       columns: '1'
+      show_interests: false
+      show_role: false
+      show_social: false
 
 ---
