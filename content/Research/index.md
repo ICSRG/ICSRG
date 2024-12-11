@@ -17,20 +17,30 @@ sections:
       show_role: true
       show_social: false
 
-
-  - block: collection
+  - block: about
     content:
       title: Research Projects
-      text: ""
-      count: 3
-      filters:
-        user_groups:
+      user_groups:
           - Projects
     design:
-      view: card
-      columns: '1'
       show_interests: false
-      show_role: false
+      show_role: true
       show_social: false
+
+
+  # - block: collection
+  #   content:
+  #     title: Research Projects
+  #     text: ""
+  #     count: 3
+  #     filters:
+  #       user_groups:
+  #         - Projects
+  #   design:
+  #     view: card
+  #     columns: '1'
+  #     show_interests: false
+  #     show_role: false
+  #     show_social: false
 
 ---
