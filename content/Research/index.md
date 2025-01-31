@@ -17,11 +17,11 @@ sections:
       show_role: true
       show_social: false
 
-  - block: about
-    content:
-      title: Research Projects
-      user_groups:
-          - Projects
+  # - block: about
+  #   content:
+  #     title: Research Projects
+  #     user_groups:
+  #         - Projects
     design:
       show_interests: false
       show_role: true
