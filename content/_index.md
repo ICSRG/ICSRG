@@ -8,16 +8,16 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to ICSRG
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+      # - title: 👋 Welcome to ICSRG
+      #   content: Take a look at what we're working on...
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: right
+      #     color: '#666'
       - title: Kidney Tumor Diagnosis
         content: ''
         align: left
