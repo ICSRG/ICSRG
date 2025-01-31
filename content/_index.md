@@ -98,16 +98,16 @@ sections:
       interval: 5000
 
 
-  - block: hero
-    content:
-      title: |
-         Intelligent Computing and Systems Research Group (ICSRG) 
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
+  # - block: hero
+  #   content:
+  #     title: |
+  #        Intelligent Computing and Systems Research Group (ICSRG) 
+  #     image:
+  #       filename: welcome.jpg
+  #     text: |
+  #       <br>
         
-        The Intelligent Computing and Systems Research Group (ICSRG) has been a center of excellence for Artificial Intelligence research, teaching, and practice.
+  #       The Intelligent Computing and Systems Research Group (ICSRG) has been a center of excellence for Artificial Intelligence research, teaching, and practice.
 
   - block: people
     content:
