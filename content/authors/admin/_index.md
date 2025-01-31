@@ -28,15 +28,34 @@ interests:
 
 education:
   courses:
+    - course: Postdoctoral Research Fellow
+      institution: Advanced Medical Engineering Center (AMEC), Department of Electrical Engineering and Computer Science, Graduate School of Engineering, University of Hyogo, Japan.
+      year: 2020
+
+    - course: JSPS Postdoctoral Research Fellow
+      institution: Department of Electrical Engineering and Computer Science, Graduate School of Engineering, University of Hyogo, Japan.
+      year: 2018-2020
+
     - course: Doctor of Philosophy - Ph.D. in Electrical Engineering and Computer Science
       institution: University of Hyogo, Japan
       year: 2017
+
     - course: Master of Science - M.S. in Engineering Physics/Applied Physics
       institution: University of Dhaka, Bangladesh
       year: 2005
+
     - course: Bachelor of Science - B.Sc. in Engineering Physics/Applied Physics
       institution: University of Dhaka, Bangladesh
       year: 2004
+
+work:
+  - position: Associate Professor & Head
+    company_name: Department of Computer Science and Engineering, Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2024-01-01
+    date_end: 'present'
+    summary:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,11 +77,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-saadia-binte-alam-a9ab7662/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/SBA_CV_2024 Final.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
