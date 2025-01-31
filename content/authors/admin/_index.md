@@ -48,7 +48,7 @@ education:
       institution: University of Dhaka, Bangladesh
       year: 2004
 
-work:
+experience:
   - position: Associate Professor & Head
     company_name: Department of Computer Science and Engineering, Independent University, Bangladesh (IUB)
     company_url: 'https://iub.ac.bd/academics/departments/cse'
