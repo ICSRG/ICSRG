@@ -48,14 +48,14 @@ education:
       institution: University of Dhaka, Bangladesh
       year: 2004
 
-# work:
-#   - position: Associate Professor & Head
-#     company_name: Department of Computer Science and Engineering, Independent University, Bangladesh (IUB)
-#     company_url: 'https://iub.ac.bd/academics/departments/cse'
-#     company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
-#     date_start: 2024-01-01
-#     date_end: 'present'
-#     summary:
+work:
+  - position: Associate Professor & Head
+    company_name: Department of Computer Science and Engineering, Independent University, Bangladesh (IUB)
+    company_url: 'https://iub.ac.bd/academics/departments/cse'
+    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
+    date_start: 2024-01-01
+    date_end: 'present'
+    summary:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -82,7 +82,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/SBA_CV_2024 Final.pdf
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
