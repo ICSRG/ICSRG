@@ -48,19 +48,14 @@ education:
       institution: University of Dhaka, Bangladesh
       year: 2004
 
-experience:
-  - position: Associate Professor & Head
-    company_name: Department of Computer Science and Engineering, Independent University, Bangladesh (IUB)
-    company_url: 'https://iub.ac.bd/academics/departments/cse'
-    company_logo: 'https://upload.wikimedia.org/wikipedia/en/4/4d/Independent_University%2C_Bangladesh_logo.png'
-    date_start: 2024-01-01
-    date_end: 'present'
-    summary:
+Experience:
+  - Associate Professor and Head, CSE, IUB
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
