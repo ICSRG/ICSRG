@@ -13,7 +13,7 @@ main:
   - name: News
     url: post
     weight: 30
-  - name: People
+  - name: Team
     url: people
     weight: 40
   - name: Events
