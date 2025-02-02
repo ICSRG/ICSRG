@@ -30,10 +30,10 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+#   - block: resume-awards
+#     content:
+#       title: Awards
+#       username: admin
 
 
 
