@@ -14,7 +14,7 @@ role: Associate Professor and Head
 
 # Organizations/Affiliations
 organizations:
-  - name: School of Engineering, Technology and Sciences, Dept. of Computer Scinece & Engineering, Independent University, Bangladesh.
+  - name: Dept. of Computer Scinece & Engineering, School of Engineering, Technology and Sciences, Independent University, Bangladesh.
     url: 'http://iub.ac.bd/academics/schools/sets'
 
 # Short bio (displayed in user profile at end of posts)

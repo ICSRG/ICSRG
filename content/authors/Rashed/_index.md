@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-Director, Adj. Assistant Professor
+role: Co-Director, Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: School of Engineering, Technology and Sciences, Dept. of Computer Scinece & Engineering, Independent University, Bangladesh.
+  - name: Dept. of Computer Scinece & Engineering, School of Engineering, Technology and Sciences, Independent University, Bangladesh.
     url: 'http://iub.ac.bd/academics/schools/sets'
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,50 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Co-Directors
+
+
+
+sections:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      
 ---
 
 Dr. Rashedur Rahman is an expert in medical image processing and deep learning. After completing his PhD in Electronics and Information Engineering at the University of Hyogo, Japan, where he conducted advanced research at the Advanced Medical Engineering Research Institute (AMERI), Dr. Rashedur joined the Department of Computer Science and Engineering at the Independent University, Bangladesh (IUB) as an Assistant Professor (Adjunct). He holds a BSc in Electrical and Electronics Engineering from the International University of Business Agriculture and Technology (IUBAT), completed in 2017, and brings valuable expertise and innovation to the group.
+
+Experience:
+
