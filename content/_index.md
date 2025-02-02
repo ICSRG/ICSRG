@@ -107,13 +107,14 @@ sections:
         filename: hero.png
       text: |
         <br>
-        
-        Dr. Saadia is an academician specializing in medical image and signal processing, data science, and AI-driven disease detection. With extensive teaching experience in Electronic Engineering and Computer Science, she has earned prestigious awards like the JSPS Postdoctoral Fellowship and MEXT Scholarship. She has published in Springer, IntechOpen, peer-reviewed journals, and top conferences. Passionate about interdisciplinary collaboration, she has established international MOUs and serves as an Associate Editor for the Journal of Applied Science and Engineering. Leading research in Biomedical AI, video surveillance, pose estimation, and robotics, her work bridges medicine, computer science, and engineering to advance healthcare, security, and human-robot interaction.
-      link:
-          icon: circile-info
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        <p>
+        Dr. Saadia is an academician specializing in leading research in medical image and signal processing, AI-driven disease detection, video data analysis, and robotics, her work bridges medicine, computer science, and engineering to advance healthcare, security, and human-robot interaction. With extensive teaching experience in Electronic Engineering and Computer Science, and as a Head, Dept. of CSE, she's working on global collaboration and research-driven strategies to ensure quality higher-level studies. she has established international MOUs and serves as a Evaluator at BAETE, Editor and Reviewer for peer-reviewed journals, and top conferences.
+        </p>
+    link:
+      icon: circile-info
+      icon_pack: fas
+      text: Join Us
+      url: ../contact/
 
   # - block: hero
   #   content:
