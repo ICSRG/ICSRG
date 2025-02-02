@@ -73,21 +73,21 @@ sections:
           position: center
           color: '#555'
 
-      - title: World-Class Biomedical AI Lab
-        content: ''
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      # - title: World-Class Biomedical AI Lab
+      #   content: ''
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Join Us
+      #     url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -95,8 +95,25 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 5000
-
+      interval: 4500
+  
+  
+  
+  - block: hero
+    content:
+      title: |
+         Dr. Saadia Binte Alam 
+      image:
+        filename: hero.png
+      text: |
+        <br>
+        
+        Dr. Saadia is an academician specializing in medical image and signal processing, data science, and AI-driven disease detection. With extensive teaching experience in Electronic Engineering and Computer Science, she has earned prestigious awards like the JSPS Postdoctoral Fellowship and MEXT Scholarship. She has published in Springer, IntechOpen, peer-reviewed journals, and top conferences. Passionate about interdisciplinary collaboration, she has established international MOUs and serves as an Associate Editor for the Journal of Applied Science and Engineering. Leading research in Biomedical AI, video surveillance, pose estimation, and robotics, her work bridges medicine, computer science, and engineering to advance healthcare, security, and human-robot interaction.
+      link:
+          icon: circile-info
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
 
   # - block: hero
   #   content:
