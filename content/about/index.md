@@ -6,7 +6,7 @@ type: landing
 
 # Page sections
 sections:
-  - block: biography
+  - block: about.biography
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
