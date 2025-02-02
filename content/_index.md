@@ -104,12 +104,11 @@ sections:
       title: |
          Dr. Saadia Binte Alam 
       image:
-        filename: hero.png
+        filename: icon.png
       text: |
         <br>
         <p>
-        Dr. Saadia is an academician specializing in leading research in medical image and signal processing, AI-driven disease detection, video data analysis, and robotics, her work bridges medicine, computer science, and engineering to advance healthcare, security, and human-robot interaction. With extensive teaching experience in Electronic Engineering and Computer Science, and as a Head, Dept. of CSE, she's working on global collaboration and research-driven strategies to ensure quality higher-level studies. she has established international MOUs and serves as a Evaluator at BAETE, Editor and Reviewer for peer-reviewed journals, and top conferences.
-        </p>
+        Dr. Saadia is an academician specializing in leading research in medical image and signal processing, AI-driven disease detection, video data analysis, and robotics, her work bridges medicine, computer science, and engineering to advance healthcare, security, and human-robot interaction.
     link:
       icon: circile-info
       icon_pack: fas
