@@ -160,6 +160,66 @@ sections:
       text: Join Us
       url: ../contact/
 
+  - block: slider
+    content:
+      slides:
+      - title: 
+        content: ''
+        align: left
+        background:
+          image:
+            filename: bongomarinehero.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: 
+        content: ''
+        align: left
+        background:
+          image:
+            filename: submarine.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: 
+        content: ''
+        align: left
+        background:
+          image:
+            filename: teambongo1.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+      - title: 
+        content: ''
+        align: left
+        background:
+          image:
+            filename: teambongo.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+
+      - title: 
+        content: ''
+        align: left
+        background:
+          image:
+            filename: bongonews.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
+
   - block: markdown
     content:
       title:
