@@ -18,6 +18,18 @@ sections:
       #         brightness: 0.7
       #     position: right
       #     color: '#666'
+
+      - title: Diabetic Foot Ulcer Diagnosis
+        content: ''
+        align: left
+        background:
+          image:
+            filename: diabetic.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+
       - title: Kidney Tumor Diagnosis
         content: ''
         align: left
@@ -46,17 +58,6 @@ sections:
         background:
           image:
             filename: robodog.jpg
-            filters:
-              brightness: 0.6
-          position: center
-          color: '#555'
-
-      - title: Diabetic Foot Ulcer Diagnosis
-        content: ''
-        align: left
-        background:
-          image:
-            filename: diabetic.jpg
             filters:
               brightness: 0.6
           position: center
@@ -138,6 +139,26 @@ sections:
       show_interests: false
       show_role: false
       show_social: false
+
+
+  - block: hero
+    content:
+      title: |
+         IUB BongoMarine 
+      image:
+        filename: bongomarine.jpg
+      text: |
+        <br>
+        <p>
+        IUB BongoMarine, a team of Computer Science and Engineering students from IUB currently works on developing and upgrading their innovative autonomous underwater vehicle with significant potential for industrial applications as they compete globally to make a impactful mark. 
+        They have already earned recognition on the global stage, securing a spot at the prestigious Singapore Autonomous Underwater Vehicle Challenge (SAUVC) 2025. Previously the team was in Top 15 at SAUVC 24, participating as the only team from Bangladesh.
+
+        Dr. Saadia is an integral part of the team contributing as one of the Supervisors.
+    link:
+      icon: circile-info
+      icon_pack: fas
+      text: Join Us
+      url: ../contact/
 
   - block: markdown
     content:
