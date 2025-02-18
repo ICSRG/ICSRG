@@ -160,6 +160,18 @@ sections:
       text: Join Us
       url: ../contact/
 
+  
+
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
   - block: slider
     content:
       slides:
@@ -218,17 +230,6 @@ sections:
               brightness: 0.6
           position: center
           color: '#555'
-
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-
 
   - block: collection
     content:
